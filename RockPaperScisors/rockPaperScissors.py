@@ -1,11 +1,5 @@
 '''
-Samuel Apoya
-         CS 152 Final Project
-                         Fall 2022
-                             December 14, 2022
-
-
-
+Author: Samuel Apoya
 '''
 import random
 import tkinter as tk
