@@ -12,7 +12,7 @@ A function called “result” was used to compare the user's choice and the com
 Rules: Rock beats Scissors, Scissors beats paper, and Paper beats Rock.
 
  Condition (1) if the user’s choice is equal to the computer's choice, draw is printed.
- Condition (2) if (user’s choice - computer’s choice) % 3 = results in “1,” the user wins else the computer wins. 
+ Condition (2) if (user’s choice - computer’s choice) % 3 results in “1,” the user wins else the computer wins. 
  
 User’s score or computer’s score is incremented depending on who wins.
 
